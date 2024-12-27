@@ -86,6 +86,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <p className="text-red-500">こんにちは</p>
+          こんにちは
           <Image
             aria-hidden
             src="/globe.svg"
